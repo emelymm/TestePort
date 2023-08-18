@@ -1,0 +1,10 @@
+
+.fundo {
+    background-color:  rgba(0, 0, 0, 0.692);
+    padding: 5%;
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
